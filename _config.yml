@@ -13,10 +13,10 @@
 # https://learnxinyminutes.com/docs/yaml/
 #
 # Site settings
-locale            : "en"
-title             : Do Dinh Si
+locale            : "vi"
+title             : Đỗ Đình Sĩ
 email             : sidodinh@gmail.com
-description       : "Blog and portfolio of Do Dinh Si, Senior Mobile developer."
+description       : "Blog cá nhân - Senior Mobile developer"
 baseurl           :
 url               : "https://sidd88.github.io"
 twitter_username  : sidd88
